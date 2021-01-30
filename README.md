@@ -1,4 +1,4 @@
-### Just a quick little soundboard with random phrases from this herbivore ho named Jenn. 
+### Welcome to the sound board of phrases I've collected from my best friend Jenn.  
 
 <!--
 **JennBoard/JennBoard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
